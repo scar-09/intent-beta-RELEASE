@@ -19,4 +19,4 @@ Currently in closed beta.
 
 ---
 
-For feedback, bugs, or questions — use the feedback option inside the app.
+For feedback, bugs, or questions - use the feedback option inside the app.
